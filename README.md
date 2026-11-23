@@ -1,14 +1,5 @@
-<p>
-  <img src="https://badgen.net" alt="Python" />
-  <img src="https://badgen.net" alt="PySpark" />
-  <img src="https://badgen.net" alt="Databricks" />
-  <img src="https://badgen.net" alt="Delta Lake" />
-  <img src="https://badgen.net" alt="MLlib" />
-  <img src="https://badgen.net" alt="Google GenAI" />
-  <img src="https://badgen.net" alt="Streamlit" />
-  <img src="https://badgen.net" alt="License" />
-  <img src="https://badgen.net" alt="Status" />
-</p>
+`🐍 Python 3.x` • `⚡ PySpark (Big Data)` • `🧱 Databricks Serverless` • `🗄️ Delta Lake` • `🌲 PySpark MLlib` • `✨ Google GenAI` • `🎈 Streamlit App` • `✅ Status: Active`
+
 
 
 
