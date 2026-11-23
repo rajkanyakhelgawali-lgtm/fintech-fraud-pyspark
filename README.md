@@ -1,12 +1,15 @@
-![Python](https://shields.io)
-![Apache Spark](https://shields.io)
-![Databricks](https://shields.io)
-![Delta Lake](https://shields.io)
-![MLlib](https://shields.io)
-![Google GenAI](https://shields.io)
-![Streamlit](https://shields.io)
-![License](https://shields.io)
-![Status](https://shields.io)
+<p>
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="PySpark" />
+  <img src="https://shields.io" alt="Databricks" />
+  <img src="https://shields.io" alt="Delta Lake" />
+  <img src="https://shields.io" alt="MLlib" />
+  <img src="https://shields.io" alt="Google GenAI" />
+  <img src="https://shields.io" alt="Streamlit" />
+  <img src="https://shields.io" alt="License" />
+  <img src="https://shields.io" alt="Status" />
+</p>
+
 
 > 🛡️ **Intelligent FinTech Fraud Detection with Explainable GenAI**  
 > A full-stack Data Engineering, Machine Learning, and Generative AI application that processes **6.36M+ financial transactions** in Databricks, predicts fraud risk with **98.90% ROC-AUC**, and generates automated compliance reports with transparency and live visualization.
