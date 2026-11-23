@@ -1,14 +1,15 @@
 <p>
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="PySpark" />
-  <img src="https://shields.io" alt="Databricks" />
-  <img src="https://shields.io" alt="Delta Lake" />
-  <img src="https://shields.io" alt="MLlib" />
-  <img src="https://shields.io" alt="Google GenAI" />
-  <img src="https://shields.io" alt="Streamlit" />
-  <img src="https://shields.io" alt="License" />
-  <img src="https://shields.io" alt="Status" />
+  <img src="https://badgen.net" alt="Python" />
+  <img src="https://badgen.net" alt="PySpark" />
+  <img src="https://badgen.net" alt="Databricks" />
+  <img src="https://badgen.net" alt="Delta Lake" />
+  <img src="https://badgen.net" alt="MLlib" />
+  <img src="https://badgen.net" alt="Google GenAI" />
+  <img src="https://badgen.net" alt="Streamlit" />
+  <img src="https://badgen.net" alt="License" />
+  <img src="https://badgen.net" alt="Status" />
 </p>
+
 
 
 > 🛡️ **Intelligent FinTech Fraud Detection with Explainable GenAI**  
